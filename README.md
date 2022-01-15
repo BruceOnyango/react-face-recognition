@@ -1,1 +1,1 @@
-# react-face-recognition
+# react-face-recognition of the bnk48 band
